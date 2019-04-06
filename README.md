@@ -16,3 +16,6 @@
         `Este paquete contiene un modelo independiente llamado PoseNet,
         así como algunas demostraciones, para ejecutar la estimación de pose en tiempo real 
         en el navegador usando TensorFlow.js` 
+
+    https://stackoverflow.com/questions/50642057/human-body-detection-using-opencv-tensorflow-and-python
+        ´Detección del cuerpo humano utilizando opencv, tensorflow y python`
