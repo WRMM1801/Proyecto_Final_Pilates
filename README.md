@@ -13,4 +13,6 @@
     https://github.com/MVIG-SJTU/AlphaPose
     
     https://github.com/tensorflow/tfjs-models/tree/master/posenet 
-        #Este paquete contiene un modelo independiente llamado PoseNet, así como algunas demostraciones, para ejecutar la          estimación de pose en tiempo real en el navegador usando TensorFlow.js 
+        `Este paquete contiene un modelo independiente llamado PoseNet,
+        así como algunas demostraciones, para ejecutar la estimación de pose en tiempo real 
+        en el navegador usando TensorFlow.js` 
